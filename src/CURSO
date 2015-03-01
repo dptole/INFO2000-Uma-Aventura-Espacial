@@ -1,0 +1,5 @@
+@echo off
+c:
+cd\info2000
+student imisob1
+
